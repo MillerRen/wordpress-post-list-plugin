@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Post List Widget
-Plugin URI: http://www.dennis99.com
+Plugin URI: http://www.renyufei.com
 Version: 1.0
 Author: Miller Ren
 Author URI: http://blog.d99.me
